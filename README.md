@@ -29,3 +29,19 @@ App to make profiles for your friends and dont forget their birthdays or other i
 - **image_picker** for profile photos
 
 ---
+
+📄 License
+
+This project is licensed under the Business Source License (BSL) – you’re free to view and learn from the code for personal use, but commercial usage is restricted. See the LICENSE file for full details.
+
+📱 Screenshots
+(Coming soon)
+
+🤝 Contributing
+
+This is a personal project and currently not accepting contributions. However, feel free to fork or adapt for your own use under the license terms.
+
+🙋 About
+
+Made with ❤️ by Yusuf Özdemir (Josef47 on github)
+For learning, memory, and connection.
